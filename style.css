@@ -1,0 +1,36 @@
+#canvas {
+    background-color: aliceblue;
+    /* cursor: url('https://upload.wikimedia.org/wikipedia/commons/0/0d/Demo_pencil.png'),
+    default; */
+}
+  
+.paleta {
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+}
+
+.c-red {
+    background-color: red;
+}
+.c-blue {
+    background-color: blue;
+}
+.c-black {
+    background-color: black;
+}
+.c-green {
+    background-color: green;
+}
+.c-yellow {
+    background-color: yellow;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
